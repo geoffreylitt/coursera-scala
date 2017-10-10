@@ -1,0 +1,6 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/62/600gp8qd0g3gcglb1wq4lvxc0000gn/T/sbt-structure.xml
+all {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/products {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/test:products
+submit gklitt@gmail.com wWfj4DhZgxlfBIQm
+all {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/products {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/test:products
+submit gklitt@gmail.com BVJefeGW3sjsNF8P
+all {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/products {file:/Users/glitt/personal-dev/coursera-scala/funsets/}root/test:products
